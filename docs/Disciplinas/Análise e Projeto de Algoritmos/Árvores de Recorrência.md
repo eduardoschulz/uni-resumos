@@ -49,4 +49,4 @@ Dessa forma, encontrar os limites assintóticos vira um trabalho de analisar uma
 - CORMEN, Thomas H. et al. Introduction to Algorithms. 3. ed. Cambridge: MIT, 2009.
 - Solving Recurrences. https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture3.pdf
 - Material de aula. Prof. Gilberto Irajá Müller (Unisinos).
-- - Aula 2024/2 Análise e Projeto de Algoritmos - Árvores de Recorrência, Profa. Andriele Busatto do Carmo
+- Aula 2024/2 Análise e Projeto de Algoritmos - Árvores de Recorrência, Profa. Andriele Busatto do Carmo
